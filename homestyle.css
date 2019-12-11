@@ -1,0 +1,45 @@
+* {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+header {
+    display: block;
+    font-size: 13px;
+    color: black;
+    padding-right: 15px;
+    padding-top: 15px; 
+    position: relative;
+    text-align: right;
+    align-items: center;
+} 
+
+li{
+    display: inline;
+    margin-right: 15px;
+}
+
+body {
+    text-align: center;
+    /* margin-top: 150px; */
+}
+
+#logo {
+    display: block;
+    /* margin: 250px auto auto auto; */
+    margin: 150 px auto auto auto;
+    width: 250px;
+    color: black;
+
+}
+
+.search [type="text"] {
+    margin: 20px auto auto auto;
+    display: block;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px 1px white;
+    border-radius: 15px;
+
+}
